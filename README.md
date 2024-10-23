@@ -1,4 +1,4 @@
-
+![logo](https://github.com/HIMANSUAGRAWAL/HIMANSUAGRAWAL/blob/main/My%20Photo.png)
 <h1 align="center">Hi 👋, I'm Himansu Agrawal</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Engineer from India</h3>
 
