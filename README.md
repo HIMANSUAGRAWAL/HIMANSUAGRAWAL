@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/himansu-agrawal-706174300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himansu-agrawal-45410333b/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/himansuagrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/himansuagrawal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_himansubansal_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_himansubansal_/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/himansuba948t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/himansuba948t/" height="30" width="40" /></a>
+<a href="https://twitter.com/himansuban73216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himansuban73216" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/himansu-agrawal-45410333b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himansu-agrawal-45410333b/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_himansubansal_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_himansubansal_/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/himansubansal171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/himansubansal171" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
